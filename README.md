@@ -1,4 +1,4 @@
-# Esperanza de vida, cuantos años tendremos que soportar esta vida tan perra. 
+# Esperanza de vida, prediccion según datos macroeconomicos. 
 
 La esperanza de vida, es aquel indicador que nos da una valoración de cuántos años va a tener presencia consciente un ser humano acabado de nacer. 
 
